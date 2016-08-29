@@ -1,2 +1,0 @@
-Absorption	Probe	Background
-795	794	794
