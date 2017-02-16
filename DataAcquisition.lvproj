@@ -80,23 +80,16 @@
 				<Item Name="Write Characters To File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Characters To File.vi"/>
 				<Item Name="Write File+ (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write File+ (string).vi"/>
 			</Item>
-			<Item Name="2D INT16 to Igor Binary File.vi" Type="VI" URL="../../../../IMAQdx_AbsImage_Flea3_v4.2_RbYb/Shared Libraries/IgorBin/igorbin4.llb/2D INT16 to Igor Binary File.vi"/>
 			<Item Name="DOMUserDefRef.dll" Type="Document" URL="DOMUserDefRef.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="FileInfo_Global.vi" Type="VI" URL="../../../../IMAQdx_AbsImage_Flea3_v4.2_RbYb/Shared Libraries/Controls/FileInfo_Global.vi"/>
-			<Item Name="FileName_Cluster.ctl" Type="VI" URL="../../../../LabVIEW Data V4.10/Shared Libraries/Controls/FileName_Cluster.ctl"/>
-			<Item Name="Load SPE v0.2.vi" Type="VI" URL="../../../Load SPE v0.2.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="MakeFileName_NIST.vi" Type="VI" URL="../../../../LabVIEW Data V4.10/Shared Libraries/FileUtils.llb/MakeFileName_NIST.vi"/>
-			<Item Name="Network_Get_Shared_Variables_v4.vi" Type="VI" URL="../../../../IMAQdx_AbsImage_Flea3_v4.2_RbYb/Shared Libraries/Labview_Networking/Network_Get_Shared_Variables_v4.vi"/>
 			<Item Name="niimaqdx.dll" Type="Document" URL="niimaqdx.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="RecursiveMakeDirectory.vi" Type="VI" URL="../../../../LabVIEW Data V4.10/Shared Libraries/FileUtils.llb/RecursiveMakeDirectory.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
